@@ -55,5 +55,12 @@ These files will contain the following information:
 - `numpy` for numerical operations
 - `plotly.express` for interactive visualizations
 
-  
+--
+
+## To Run 
+
+1. Download the `.ipynp` file
+2. Install dependencies (if need be):
+   ```bash
+   pip install pandas numpy plotly
 
